@@ -1,1 +1,12 @@
-this is my gitHub
+3 bash commands I have use:
+Echo: is a command that writes its arguments to standard output. 
+Syntax is echo "text" > file.txt
+
+Cat:   The cat utility reads files sequentially, writing them to the standard
+     output. 
+Syntax is (cat file-name)
+
+
+Ls:List directory contents.
+Syntax: ls directory-name
+
